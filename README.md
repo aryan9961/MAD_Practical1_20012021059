@@ -14,6 +14,7 @@ Solution :
 
 
 Output :
+![image](https://user-images.githubusercontent.com/110806418/190065807-92674671-fc15-4cba-a4b1-357c9d4d2973.png)
 
 
 
@@ -25,6 +26,8 @@ Solution :
 
 
 Output :
+![image](https://user-images.githubusercontent.com/110806418/190065849-bc1b03ac-0d99-4157-90f3-10971a472d0d.png)
+
 
 Question 3 : Scan student’s information and display all the data.
 
@@ -36,6 +39,8 @@ Solution :
   
 
 Output :
+![image](https://user-images.githubusercontent.com/110806418/190065899-cb02bd62-f7c2-4d55-918b-ff20cbfa827e.png)
+
 
 Question 4 : Find the number is odd or even
 
@@ -44,6 +49,8 @@ Solution :
 
 
 Output :
+![image](https://user-images.githubusercontent.com/110806418/190065942-6ddc2377-8927-46c4-882f-3ae03c805664.png)
+
 
 Question 5 : Display month name when user enter a month number using "when Expressions"
 
@@ -52,6 +59,8 @@ Solution :
 
 
 Output :
+![image](https://user-images.githubusercontent.com/110806418/190065976-2a11cc47-b6ed-4019-9307-eba2a5c7c118.png)
+
 
 Question 6 : By using a user defined function, perform all arithmetic operations
 
@@ -61,6 +70,8 @@ Solution :
 
 Output :
 
+![image](https://user-images.githubusercontent.com/110806418/190066019-cd5afc58-d85d-42e7-8a99-7ca510a39743.png)
+
 Question 7 : Find the factorial of number by recursion. Explain "tailrec" keyword.
 
 Solution :
@@ -68,6 +79,8 @@ Solution :
 
 
 Output :
+![image](https://user-images.githubusercontent.com/110806418/190066056-3f60e8c5-93a9-49d3-8c4f-5efbc887e0a7.png)
+
 
 Question 8 : Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString() and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
 
@@ -78,6 +91,8 @@ Solution :
 
 
 Output :
+![image](https://user-images.githubusercontent.com/110806418/190066113-10e66cb7-6743-4684-ba02-8795b94947ab.png)
+
 
 Question 9 : Find the max number from ArrayList.
 
@@ -86,6 +101,8 @@ Solution :
 
 
 Output :
+![image](https://user-images.githubusercontent.com/110806418/190066143-11c2aaa9-4faf-4e27-a423-e34dc9633d52.png)
+
 
 Question 10 : Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
 
@@ -98,6 +115,8 @@ Solution :
 
 
 Output :
+![image](https://user-images.githubusercontent.com/110806418/190066181-507a12a2-52e7-4ab4-8d1b-eb4d7eadb9eb.png)
+
 
 Question 11 : Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class & operator overloading. Overload toString() function in Matrix class.
 
@@ -110,6 +129,8 @@ Solution :
 
 
 Output :
+![image](https://user-images.githubusercontent.com/110806418/190066259-3c9d1b1f-13fc-423c-a58e-78381ad56934.png)
+![image](https://user-images.githubusercontent.com/110806418/190066291-2d02eb5d-d14b-467b-b775-a949ddc343f9.png)
 
 
 EXERCISES: KOTLIN PROGRAMS
@@ -121,6 +142,8 @@ Solution :
 
 
 Output :
+![image](https://user-images.githubusercontent.com/110806418/190066364-9543a3ec-d67a-492c-a1ab-8e6a530ee33e.png)
+
 
 Exercise 2:	Create two class named as Product and Laptop. Inherit with this information: Product class should be parent and child class should be Laptop class. 
 Add Product Name, Quantity, Amount per Quantity in Product class. In Laptop class add CPU name, RAM size, HDD Size, etc. of Laptop configuration. 
@@ -136,6 +159,11 @@ Solution :
 
 
 Output :
+![image](https://user-images.githubusercontent.com/110806418/190066320-4b08e86f-cd6e-4762-9b76-633a2c854b0f.png)
+
+![image](https://user-images.githubusercontent.com/110806418/190066456-f8c7f417-f56e-4416-b958-fe72ef42e68e.png)
+
+
 
 Exercise 3:	Create two class named as Person and Student. Inherit with this information: Person class should be parent and child class should be Student class. 
 Add first name, last name, age in Person class. In Laptop class add enrollment no, branch, class, lab batch, etc. 
@@ -151,5 +179,10 @@ Solution :
 ![image](https://user-images.githubusercontent.com/110806418/190065640-3b93d0ef-5a07-42ac-9d05-9596a9e784e5.png)
 
 Output :
+![image](https://user-images.githubusercontent.com/110806418/190066479-1481be13-9df0-447e-8927-ff25ccd6245c.png)
+![image](https://user-images.githubusercontent.com/110806418/190066410-8f5bb9c4-587d-42a9-b3f4-bb1c0cf2e8d8.png)
+![image](https://user-images.githubusercontent.com/110806418/190066493-f2ec6bd9-e56c-4866-a85e-59f85148c1d5.png)
+
+
 
 
